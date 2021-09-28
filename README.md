@@ -4,8 +4,8 @@ Kocaeli Üniversitesi Programlama Laboratuvarı Dersi 1. Proje
 
 
 
-Proje: Minimum enclosing circle Probleminin C dilinde çözülüp görsel olarak kullanıcıya gösterilmesi.
-X ve Y koordinatları verilen noktaları kapsayan ancak olabilecek en küçük çemberi çizen algoritma C dilinde yazılmıştır.
+Proje: Minimum enclosing circle Probleminin C/C++ dilinde çözülüp görsel olarak kullanıcıya gösterilmesi.
+X ve Y koordinatları verilen noktaları kapsayan ancak olabilecek en küçük çemberi çizen algoritma C/C++ dilinde yazılmıştır.
 
 **************MİNİMUM KAPSAYAN ÇEMBER PROBLEMİ**************
 
